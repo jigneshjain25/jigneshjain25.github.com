@@ -21,16 +21,23 @@ body{
  	width: 100%;
  	height: 40px;
  }
-
+.footer{
+	text-align: center;
+	font-size:10px;
+	position: absolute;
+	width:80%;
+	bottom:0;
+}
  #main {
     /* Provide scrollbars if needed, position below header, and derive height from top/bottom */
-    overflow-y: scroll;
+    overflow-y: auto;
     overflow-x: hidden;
     position:absolute;
   	 width: 80%;
+  	 height:78%;
   	 top:120px;
     bottom: 0;
-    padding-right: 250px;
+    padding-right: 120px;
  }
 a{
 	text-decoration: none;
