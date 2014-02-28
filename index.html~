@@ -27,8 +27,8 @@
 			<div id="main">
          	 <ul>
 					<li> <h3> Who am I?</h3></li>
-					 	<ol>
-							<li style="list-style:none"> <img style="padding-left:20px;float:right;" src="jj.jpg" width="200px" height="200px" /> 
+					 	
+							<img style="padding-left:20px;float:right;" src="jj.jpg" width="200px" height="200px" /> 
 							<p> Well, the very fact that you have landed on this site implies that you know me :P
 							But still, I take the honour of introducing myself. 
 							My name is Jignesh Navratanmal Jain and 
@@ -36,24 +36,24 @@
 							I am a fun loving person, you will often find me cracking jokes (don't you dare call them PJs :P) and making people laugh.
 							I used to be a sincere student till the time I was in school. Currently, I am enjoying college life at VJTI ;)
 							<br>
-							</p></li>					 	
-					 	</ol>        
+							</p>
+					 	
 					 
 					 	 
 					 	<li> <h3> What do I do?</h3></li>
-					 	<ol>
-						<li style="list-style:none">
-						<p>Now this question makes me ponder :P I spend most of my time infront of my Dell Inspiron and I just cant live 
+					 	
+						
+						<p>Now this question makes me ponder :D I spend most of my time infront of my Dell Inspiron and I just cant live 
 						without Internet. I am interested in Competitive Programming and want to improve in it. I solve problems on 
 						<a href="http://www.spoj.com/users/jigneshjain25/" target="_blank" title="me on spoj"> Spoj </a>,
 						<a href="http://www.codechef.com/users/jigneshjain25/" target="_blank" title="me on codechef">Codechef</a> and <a href="http://codeforces.com/profile/jigneshjain25" target="_blank" title="me on codeforces">Codeforces</a>. I also enjoy writing random 
 						scripts to make life good.<br>
 						
 						</p>
-					 	</ol>
+					 	
 					 	
 					 	<li> <h3> My Projects </h3></li>
-					 	<ul>
+					 	<ul style="list-style-type:square;">
 							<li><a href = "https://github.com/jigneshjain25/JIGEditor/blob/master/JIGEditor.jar?raw=true" title="JIGEditor JAR"> JIGEditor</a>: 
 							&nbsp;&nbsp;&nbsp;A Java Swing Based Programming editor made using Open Source Project RSyntaxTextArea
 							</li>
@@ -73,14 +73,14 @@
 						</i>
 
          	 </ul>
-         	 						
+
       	</div>
       	
       	<div class="footer">
       	    <hr>
-			&copy; Copyright Jignesh Jain 2014 @JJ   
-			&nbsp;&nbsp;&nbsp;
+      	    PS: I do not update this site frequently, only when I am extremely bored (like during exams), I perform stunts like these!
       	</div>
+      	
       	
 		</div>
 	</body>
