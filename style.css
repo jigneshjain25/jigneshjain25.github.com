@@ -1,10 +1,10 @@
 body{
     background: url('bg.jpg');
-	font-family: 'verdana', 'helvetica', 'helvetica neue', arial;
-	font-style: normal;
-	letter-spacing: -0.01em;
+	font-family: 'Open Sans', sans-serif,'verdana', 'helvetica', 'helvetica neue', arial;
+	 font-style: normal;
+	// letter-spacing: -0.01em;
 	font-size: 14px;
-	line-height: 20px;
+	 line-height: 20px;
 	color: #333;
 }
 .container{
